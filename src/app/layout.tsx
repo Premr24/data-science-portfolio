@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Prem Rawal | Portfolio",
     description: "Turning noise into signals through Data Science and Backend Engineering.",
-    url: "https://data-science-portfolio-dun.vercel.app", 
+    url: "https://prem-portfolio-dun.vercel.app", 
     siteName: "Prem Rawal Portfolio",
     type: "website",
   },
